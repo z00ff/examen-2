@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Interacción con JavaScript</title>
+</head>
+<body>
+  <h2>alumno:Sofia Parra 5-A</h2>
+  <button onclick="saludar()">Saludar</button>
+
+  <script>
+    function saludar() {
+      alert("Hola Sofia, bienvenido al examen de programacion web");
+    }
+  </script>
+</body>
+</html>
